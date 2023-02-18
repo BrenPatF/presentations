@@ -16,3 +16,7 @@ Database API Viewed As Mathematical Function - Insights into Testing
 Clean Coding in PLSQL and SQL
 
 [Twitter Thread](https://twitter.com/BrenPatF/status/1218066112899952642)
+
+## 2022_shortest_path_sql
+
+Analysing Performance of Algorithmic SQL and PLSQL
